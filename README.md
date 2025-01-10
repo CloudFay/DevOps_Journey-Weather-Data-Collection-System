@@ -43,12 +43,8 @@ weather-dashboard/
 ## Setup Instructions
 1. Clone the repository:
 --bash
-<<<<<<< HEAD
 git clone https://github.com/CloudFay/DevOps_Journey.git
-=======
-git clone https://github.com/Enoredia/DevOpsAllStars.git/
 
->>>>>>> dd23760 (Save changes before pulling remote updates)
 3. Install dependencies:
  pip install -r requirements.txt
 
