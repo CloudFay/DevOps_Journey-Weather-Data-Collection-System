@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Devops_Journey: Weather Dashboard Demo- Day 1
+=======
+# DevOps_All_Stars: Weather Data Collection System - Day 1
+>>>>>>> dd23760 (Save changes before pulling remote updates)
 
 Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
 
@@ -43,7 +47,12 @@ weather-dashboard/
 ## Setup Instructions
 1. Clone the repository:
 --bash
+<<<<<<< HEAD
 git clone https://github.com/CloudFay/DevOps_Journey.git
+=======
+git clone https://github.com/Enoredia/DevOpsAllStars.git/
+
+>>>>>>> dd23760 (Save changes before pulling remote updates)
 3. Install dependencies:
  pip install -r requirements.txt
 
