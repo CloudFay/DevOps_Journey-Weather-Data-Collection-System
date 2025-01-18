@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # DevOps_Journey: Weather Data Collection System - Project 1
+=======
+# Devops_Journey: Weather Dashboard Demo- Day 1
+>>>>>>> master
 
 Day 1: Building a weather data collection system using AWS S3 and OpenWeather API
 
